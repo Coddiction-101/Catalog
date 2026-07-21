@@ -1,4 +1,4 @@
-# 🚀 Project Genesis — Unique Developer Project Ideas
+# Project Genesis — Unique Developer Project Ideas
 
 > A curated collection of genuinely unique, non-generic project ideas across multiple domains.  
 > **Goal:** Build things that make people say *"Wait, that's actually cool."*
